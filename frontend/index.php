@@ -1,1 +1,1 @@
-<?php include 'backend/head.php'; ?>
+<?php include '../backend/head.php'; ?>
